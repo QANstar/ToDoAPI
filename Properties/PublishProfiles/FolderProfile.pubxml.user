@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2022-01-18T11:04:35.1644245Z;False|2022-01-18T19:04:10.6705254+08:00;False|2022-01-18T19:01:24.7007896+08:00;False|2022-01-18T19:01:05.0614583+08:00;False|2022-01-18T19:00:09.2136636+08:00;False|2022-01-18T18:58:35.4440122+08:00;False|2022-01-18T18:54:15.2829436+08:00;False|2022-01-18T18:53:53.0625713+08:00;False|2022-01-18T18:51:53.7930569+08:00;False|2022-01-18T18:51:16.2644261+08:00;False|2022-01-18T18:50:50.2958621+08:00;False|2022-01-18T18:50:04.7742253+08:00;False|2022-01-18T18:49:11.6833699+08:00;False|2022-01-18T18:47:56.6395248+08:00;</History>
+    <_PublishTargetUrl>D:\QAN_Program\WebApi\ToDoAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=139.224.221.148%3bInitial Catalog=QAN_ToDoDB%3bPersist Security Info=True%3bUser ID=QANstar%3bPassword=Fa473184520403</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

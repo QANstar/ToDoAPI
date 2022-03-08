@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e27eca71-4647-41e6-a910-cb74e160a474": {
+      "ProjectGuid": "e27eca71-4647-41e6-a910-cb74e160a474",
+      "DisplayName": "ToDoAPI",
+      "ColorIndex": 0
+    },
+    "eb50f6bf-413e-4b2c-a152-74d9e5f2e027": {
+      "ProjectGuid": "eb50f6bf-413e-4b2c-a152-74d9e5f2e027",
+      "DisplayName": "ToDo.Entity",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "76bf14e1-fd6d-4db3-8162-f03342d17bd9": {
+      "ProjectGuid": "76bf14e1-fd6d-4db3-8162-f03342d17bd9",
+      "DisplayName": "ToDo.Model",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
